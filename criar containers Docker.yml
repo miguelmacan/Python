@@ -1,0 +1,5 @@
+version: '3'
+services:
+  my_container:
+    image: ubuntu
+    command: echo Hello, Docker!
